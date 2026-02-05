@@ -9,9 +9,7 @@ Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, a
             <p>- First, we'll add two 3560 switches to the topology by dragging and dropping them into the Headquarters 
 section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-CORE-SW2.</p>
                 <img width="1978" height="1039" alt="Screenshot 2026-02-05 173646" src="https://github.com/user-attachments/assets/bef0dc50-1028-4d73-85a9-3f554476c6da" />
-            <p>- The next thing was to expand the IIS section, find Application Development Features, and enable the CGI as well.</p>
-                <img src="https://i.imgur.com/TMm3m0Q.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-        <h3>Step 2: Install Web Platform Installer</h3>
+        <h3>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</h3>
             <p>- In this step, we will install the Web Platform Installer. To do that, we must first download and install the PHP Manager for IIS.</p>
                 <img src="https://i.imgur.com/dvRGYh4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
                 <img src="https://i.imgur.com/zcVEfvA.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
