@@ -6,7 +6,8 @@
 Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
         <h3>Step 1: Rack mount, power on and cable both switches</h3>
-            <p>- First, we open Control Panel, go to Programs and Features, and click Turn Windows Features on or off. From there we scroll down to find IIS, and enable it.</p>
+            <p>- First, We'll add two 3560 switches to the topology by dragging and dropping them into the Headquarters 
+section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-CORE-SW2.</p>
                 <img src="https://i.imgur.com/1auhZ9x.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
             <p>- The next thing was to expand the IIS section, find Application Development Features, and enable the CGI as well.</p>
                 <img src="https://i.imgur.com/TMm3m0Q.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
