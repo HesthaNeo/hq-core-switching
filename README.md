@@ -30,6 +30,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="866" height="744" alt="Screenshot 2026-02-05 183818" src="https://github.com/user-attachments/assets/163ad1d5-f493-45e2-8456-a2ea8ab5bd31" />
                 <img width="867" height="729" alt="Screenshot 2026-02-05 183940" src="https://github.com/user-attachments/assets/644f4b1e-93ef-44ef-8cc7-b691a4c8ffe8" />
         <h3>Step 7: Configure HSRP For All VLAN Interfaces</h3>
+            <p>- For this next step, we will configure HSRP under all VLAN interfaces to share an IP address between the switches.</p>
 
 
 
