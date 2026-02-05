@@ -10,7 +10,7 @@ Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, a
 section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-CORE-SW2.</p>
                 <img width="1978" height="1039" alt="Screenshot 2026-02-05 173646" src="https://github.com/user-attachments/assets/bef0dc50-1028-4d73-85a9-3f554476c6da" />
         <h3>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</h3>
-            <p>- In this step, we will install the Web Platform Installer. To do that, we must first download and install the PHP Manager for IIS.</p>
+            <p>- In this step, we basic configuration for both of the switches including changing their hostnames, setting their time zones, enabling SSH, setting domain names, adding securiting to console and vty lines, and creating user profiles with a password the device.</p>
                 <img width="925" height="1042" alt="Screenshot 2026-02-05 174601" src="https://github.com/user-attachments/assets/b41860bc-2ea6-450d-a5c5-0f99b8e24ed3" />
             <p>- Next, was to download and install the rewrite module.</p>
                 <img src="https://i.imgur.com/IHmjB4G.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
