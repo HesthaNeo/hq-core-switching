@@ -5,7 +5,7 @@
     <p>First phase, we will install 2 Cisco WS-C3560-24PS configured with port-channel, Hot Standby Router
 Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
-        <h3>Step 1: Enable Internet Information Services (IIS) with CGI (Common Gateway Interface)</h3>
+        <h3>Step 1: Rack mount, power on and cable both switches</h3>
             <p>- First, we open Control Panel, go to Programs and Features, and click Turn Windows Features on or off. From there we scroll down to find IIS, and enable it.</p>
                 <img src="https://i.imgur.com/1auhZ9x.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
             <p>- The next thing was to expand the IIS section, find Application Development Features, and enable the CGI as well.</p>
