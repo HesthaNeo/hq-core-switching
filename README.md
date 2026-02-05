@@ -12,6 +12,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
         <h3>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</h3>
             <p>- In this step, we did basic configuration for both of the switches including changing their hostnames, setting their time zones, enabling SSH, setting domain names, adding securiting to console and vty lines for SSH, and creating user profiles with a password the devices.</p>
                 <img width="925" height="1042" alt="Screenshot 2026-02-05 174601" src="https://github.com/user-attachments/assets/b41860bc-2ea6-450d-a5c5-0f99b8e24ed3" />
+                <img width="869" height="922" alt="Screenshot 2026-02-05 175059" src="https://github.com/user-attachments/assets/aeb08dd4-b957-44c0-b626-f9de45faa802" />
             <p>- Next, was to download and install the rewrite module.</p>
                 <img src="https://i.imgur.com/IHmjB4G.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
                 <img src="https://i.imgur.com/cvy9y6B.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
