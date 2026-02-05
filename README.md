@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 <h1><u>Milestone 2: HQ Core-Switching</u></h1>
-    <p>This lab demonstration outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.</p>
+    <p>First phase, we will install 2 Cisco WS-C3560-24PS configured with port-channel, Hot Standby Router
+Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server</p>
     <h2><em>Environments and Technologies Used</em></h2>
         <ul>
             <li>Microsoft Azure (Virtual Machines/Compute)</li>
