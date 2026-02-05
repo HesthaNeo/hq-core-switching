@@ -8,7 +8,7 @@ Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, a
         <h3>Step 1: Rack mount, power on and cable both switches</h3>
             <p>- First, We'll add two 3560 switches to the topology by dragging and dropping them into the Headquarters 
 section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-CORE-SW2.</p>
-                <img src="https://i.imgur.com/1auhZ9x.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+                <img width="1975" height="962" alt="Screenshot 2026-02-05 173310" src="https://github.com/user-attachments/assets/98b53bda-6e45-45ba-a5e0-768d41e72593" />
             <p>- The next thing was to expand the IIS section, find Application Development Features, and enable the CGI as well.</p>
                 <img src="https://i.imgur.com/TMm3m0Q.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
         <h3>Step 2: Install Web Platform Installer</h3>
