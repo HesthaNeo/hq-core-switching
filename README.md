@@ -5,7 +5,7 @@
     <p>First phase, we will install 2 Cisco WS-C3560-24PS configured with port-channel, Hot Standby Router
 Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
-        <h3>Step 1: Rack mount, power on and cable both switches</h3>
+        <h3>Step 1: Rack Mount, Power On and Cable Both Switches</h3>
             <p>- First, we'll add two 3560 switches to the topology by dragging and dropping them into the Headquarters 
 section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-CORE-SW2.</p>
                 <img width="1978" height="1039" alt="Screenshot 2026-02-05 173646" src="https://github.com/user-attachments/assets/bef0dc50-1028-4d73-85a9-3f554476c6da" />
