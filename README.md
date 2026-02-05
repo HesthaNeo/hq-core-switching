@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
-<h1><u>HQ Core-Switching</u></h1>
+<h1><u>Milestone 2: HQ Core-Switching</u></h1>
     <p>This lab demonstration outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.</p>
     <h2><em>Environments and Technologies Used</em></h2>
         <ul>
