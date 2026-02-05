@@ -3,26 +3,8 @@
 </p>
 <h1><u>Milestone 2: HQ Core-Switching</u></h1>
     <p>First phase, we will install 2 Cisco WS-C3560-24PS configured with port-channel, Hot Standby Router
-Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server</p>
-    <h2><em>Environments and Technologies Used</em></h2>
-        <ul>
-            <li>Microsoft Azure (Virtual Machines/Compute)</li>
-            <li>Remote Desktop</li>
-            <li>Internet Information Services (IIS)</li>
-        </ul>
-    <h2><em>Operating Systems Used</em></h2>
-        <ul>
-            <li>Windows 10 (21H2)</li>
-        </ul>
-    <h2><em>List of Prerequisites</em></h2>
-        <ul>
-            <li>Enable Internet Information Services (IIS) with CGI (Common Gateway Interface)</li>
-            <li>Install Web Platform Installer</li>
-            <li>Install C++ Redistributable</li>
-            <li>Install MySQL and Setup Username and Password</li>
-            <li>Configure Permissions and Install osTicket</li>
-        </ul>
-    <h2><strong><u>Installation Steps</u></strong></h2>
+Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server.</p>
+    <h2><strong><u>Configuration Steps</u></strong></h2>
         <h3>Step 1: Enable Internet Information Services (IIS) with CGI (Common Gateway Interface)</h3>
             <p>- First, we open Control Panel, go to Programs and Features, and click Turn Windows Features on or off. From there we scroll down to find IIS, and enable it.</p>
                 <img src="https://i.imgur.com/1auhZ9x.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
