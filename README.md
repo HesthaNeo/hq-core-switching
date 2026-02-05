@@ -22,7 +22,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="869" height="920" alt="Screenshot 2026-02-05 180818" src="https://github.com/user-attachments/assets/9bf9ce07-cc81-4e64-ad62-6f9865424ea9" />
                 <img width="870" height="884" alt="Screenshot 2026-02-05 181021" src="https://github.com/user-attachments/assets/c47cb564-3475-49e1-8b9e-a03253684591" />
         <h3>Step 5: Configure VLAN Trunking Protocol (VTP) Server</h3>
-            <p>- In this step, in order to configure the permissions and install osTicket, we begin by opening IIS as an admin. After doing that, we register PHP from within IIS.</p>
+            <p>- In this step, we will configure the VLAN Trunking Protocol Server to centralize and automate the management of VLAN configurations (add, delete, rename) across all switches in a domain.</p>
                 <img src="https://i.imgur.com/twEf0iH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
             <p>- Registering PHP in IIS. (Restart the Server)</p>
                 <img src="https://i.imgur.com/jXujTa2.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
