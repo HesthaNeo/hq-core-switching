@@ -17,11 +17,10 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
             <p>- Next is to enable IP Routing and multilayer switch quality of service to allow communication between different VLANs (subnets) directly on the switch and so that critical traffic gets priority.</p>
                 <img width="870" height="884" alt="Screenshot 2026-02-05 175900" src="https://github.com/user-attachments/assets/51785ecf-fd6c-4980-bf86-3986d609e2c9" />
                 <img width="866" height="886" alt="Screenshot 2026-02-05 175948" src="https://github.com/user-attachments/assets/c9caab27-d06c-4fc6-afc6-2c6d1fbad001" />
-                <img src="https://i.imgur.com/k1BomJx.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-                <img src="https://i.imgur.com/9QXJKrT.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-        <h3>Step 4: Install MySQL and Setup Username and Password</h3>
-            <p>- For this step, we will install my SQL for our database server management.</p>
-                <img src="https://i.imgur.com/4htBXSF.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+        <h3>Step 4: Create VLANs (10, 100, 172, & 192)</h3>
+            <p>- For this step, we will now create these VLANs on both switches to segment a single physical network infrastructure into multiple, isolated, logical networks, improving performance, security, and management.</p>
+                <img width="869" height="920" alt="Screenshot 2026-02-05 180818" src="https://github.com/user-attachments/assets/9bf9ce07-cc81-4e64-ad62-6f9865424ea9" />
+                <img width="870" height="884" alt="Screenshot 2026-02-05 181021" src="https://github.com/user-attachments/assets/c47cb564-3475-49e1-8b9e-a03253684591" />
             <p>- We used Typical Setup for this installation.</p>
                 <img src="https://i.imgur.com/1kipAj6.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
                 <img src="https://i.imgur.com/HHgDG3I.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
