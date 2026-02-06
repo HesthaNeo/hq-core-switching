@@ -57,6 +57,10 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
             <p><em>- We implement the "spanning-tree portfast" command to allow the accessport to transition immediately to the forwarding state, skipping the 30-50 second delay of listening and learning states. This is so end-user devices can receive instant network access, but while still running spanning-tree on the switch itself to prevent loops. Lastly, we use the "mls qos trust device cisco-phone" command on these specific access ports if a device identifies itself via cisco discovery drotocol (CDP) as a cisco IP phone, we're telling the switch to trust the voice quality markings it sends and prioritize its traffic. </em></p>
         <h3>Step 11: Configure Static Routes</h3>
             <p>- Now we will configure a default route to point to the HQ internet router data interface IP address (Not installed yet). Next we will ensure we have a route to Branch 1 and Branch 2 networks pointing to the HQ WAN router data IP interface. Lastly, we will ensure we have a route to the private WAN service provider network, pointing to the HQ WAN router data interface IP address. (Both Switches)</p>
+                <img width="861" height="433" alt="Screenshot 2026-02-05 204143" src="https://github.com/user-attachments/assets/728eed5c-ceba-4812-97fd-6dcb35ca2dd6" />
+                <img width="868" height="336" alt="Screenshot 2026-02-05 204710" src="https://github.com/user-attachments/assets/4988b0aa-73d0-4cfd-a791-3773d6bb62c0" />
+
+
 
 
 
