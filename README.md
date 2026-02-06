@@ -55,11 +55,13 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="870" height="449" alt="Screenshot 2026-02-05 201517" src="https://github.com/user-attachments/assets/cba4bc98-edab-464e-bd36-508502afb0bf" />
                 <img width="866" height="416" alt="Screenshot 2026-02-05 201605" src="https://github.com/user-attachments/assets/dded2016-33c2-4fa9-910f-0a59057cc025" />
             <p><em>- We implement the "spanning-tree portfast" command to allow the accessport to transition immediately to the forwarding state, skipping the 30-50 second delay of listening and learning states. This is so end-user devices can receive instant network access, but while still running spanning-tree on the switch itself to prevent loops. Lastly, we use the "mls qos trust device cisco-phone" command on these specific access ports if a device identifies itself via cisco discovery drotocol (CDP) as a cisco IP phone, we're telling the switch to trust the voice quality markings it sends and prioritize its traffic. </em></p>
-        <h3>Step 11: Configure Static Routes</h3>
+        <h3>Step 11: Configure Access-List To Protect The Management Plane</h3>
+            <p>- For this step, we will configure an access-list to ensure that only authorized administrators can log into network devices either locally or remotely via SSH.</p>
             <p>- Now we will configure a default route to point to the HQ internet router data interface IP address (Not installed yet). Next we will ensure we have a route to Branch 1 and Branch 2 networks pointing to the HQ WAN router data IP interface. Lastly, we will ensure we have a route to the private WAN service provider network, pointing to the HQ WAN router data interface IP address. (Both Switches)</p>
                 <img width="861" height="433" alt="Screenshot 2026-02-05 204143" src="https://github.com/user-attachments/assets/728eed5c-ceba-4812-97fd-6dcb35ca2dd6" />
                 <img width="868" height="336" alt="Screenshot 2026-02-05 204710" src="https://github.com/user-attachments/assets/4988b0aa-73d0-4cfd-a791-3773d6bb62c0" />
-        <h3>Step 12: Verify Connectivity In The Network</h3>
+            <h3>Step 12: Configure Static Routes</h3>
+        <h3>Step 13: Verify Connectivity In The Network</h3>
              <p>- For the final step in this first milestone, we will now connect a network operations PC to the MGMT VLAN for management of the network and verification purposes.</p>
              <p>- A. We will drag and drop a PC into the topology and label it as "NOC-PC".</p>
                  <img width="759" height="879" alt="Screenshot 2026-02-06 150935" src="https://github.com/user-attachments/assets/0a07c603-27f1-4fa0-b91f-aa2b937cf2ea" />
