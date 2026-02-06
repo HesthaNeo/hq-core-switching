@@ -67,6 +67,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                  <img width="736" height="860" alt="Screenshot 2026-02-06 151141" src="https://github.com/user-attachments/assets/ab1a2448-ffc5-41f0-8a56-6ded3b8fa10c" />
              <p>- C. Next we will configure that same cccess port on HQ-CORE-SW1 (fa0/1) for switchport access vlan 100, our MGMT vlan.</p>
                  <img width="872" height="291" alt="Screenshot 2026-02-06 151443" src="https://github.com/user-attachments/assets/101c922d-7e40-4c25-8685-7a9ab83f8cec" />
+             <p>- D. Now we'll click on the PC to configure a static IP address, subnet mask, and default gateway.</p>
 
             
 
