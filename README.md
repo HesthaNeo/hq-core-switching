@@ -39,7 +39,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                <img width="867" height="622" alt="Screenshot 2026-02-05 191451" src="https://github.com/user-attachments/assets/396acc9b-f7b1-47c9-b86a-28779aff0949" />
                <img width="873" height="632" alt="Screenshot 2026-02-05 191659" src="https://github.com/user-attachments/assets/15aa2f05-3911-4f7a-8f45-e53785a02188" />
         <h3>Step 9: Configure Trunk Ports</h3>
-            <p>- Next we'll configure spanning-tree vlan priority to split the role of the primary root bridge between the core switches. This will affect traffic from access layer switches coming back to the core, so that we may optimize traffic flow, balancing the load across redundant paths, and ensure predictable, stable topology behavior.</p>
+            <p>- Now we will connected a 2nd ethernet cross-over cable connecting both G0/2 ports on the switches, and we will configure the two gigabit ethernet connections as aggregated trunk links We do this to combine both physical links into a single logical interface, preventing a single point of failure and while also optimizing througput without having to upgrade our hardware.</p>
 
  
 
