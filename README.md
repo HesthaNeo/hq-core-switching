@@ -54,6 +54,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="1047" height="455" alt="Screenshot 2026-02-05 201305" src="https://github.com/user-attachments/assets/624861d2-f3f3-4e81-ac94-b26b86432d69" />
                 <img width="870" height="449" alt="Screenshot 2026-02-05 201517" src="https://github.com/user-attachments/assets/cba4bc98-edab-464e-bd36-508502afb0bf" />
                 <img width="866" height="416" alt="Screenshot 2026-02-05 201605" src="https://github.com/user-attachments/assets/dded2016-33c2-4fa9-910f-0a59057cc025" />
+            <p><em>- We implement the "spanning-tree portfast" command to allow the accessport to transition immediately to the forwarding state, skipping the 30-50 second delay of listening and learning states. This is so end-user devices can receive instant network access, but while still running spanning-tree on the switch itself to prevent loops.</em></p>
 
 
 
