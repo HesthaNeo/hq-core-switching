@@ -93,8 +93,9 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
              <p>- E. Now we can access the command prompt of the Test-PC to test connectivity to various IPs.</p>
                  <img width="2559" height="1599" alt="Screenshot 2026-02-06 155717" src="https://github.com/user-attachments/assets/0526fd86-227b-4edd-9d50-9430cc1cfd70" />
              <p><em>- As you can see, we were able to successfuly ping our vlans on the network.</em></p>
-             <p>- F. Next we will test management access to the core switches to verify the test host cannot access the management plan of either core switch.</p>
+             <p>- F. Next we will test management access to the core switches to verify the test host cannot access the management plane of either core switch.</p>
                  <img width="871" height="277" alt="Screenshot 2026-02-06 162334" src="https://github.com/user-attachments/assets/e32db836-d61d-43f0-b523-1a1d9ba61bb5" />
+             <p><em>- As you can see, we are unable to remotely access the management plane of our network, due to the access control lists we configured earlier in the network configuration. Our access list is deny any other IP address that aren't explicitly stated in the configuration, showing that this was successful.</em></p>
 
 
 
