@@ -86,6 +86,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
              <p>- C. Now we'll click on the PC to configure a static IP address, subnet mask, and default gateway in the configuration. Our IP address for this Test PC will be 192.168.10.150 255.255.255.0 with a default gateway of 192.168.10.100.</p>
                  <img width="871" height="884" alt="Screenshot 2026-02-06 155204" src="https://github.com/user-attachments/assets/35ff7aaf-4c16-47e7-ab31-bf7e20eac9f4" />
                  <img width="870" height="883" alt="Screenshot 2026-02-06 155244" src="https://github.com/user-attachments/assets/ad36c2e2-e77f-438e-afa9-0c513a0879b3" />
+             <p>- E. Now we can access the command prompt of the Test-PC to test connectivity to various IPs.</p>
 
 
 
