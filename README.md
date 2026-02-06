@@ -79,6 +79,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                  <img width="868" height="353" alt="Screenshot 2026-02-06 153359" src="https://github.com/user-attachments/assets/e012e7ea-a144-4753-a414-3e16068d86aa" />
              <p><em>- As you can see, we were able to connect remotely through ssh successfully to our management vlan interfaces.</em></p>
              <p>- Now we will connect a test PC to the data VLAN for testing regular host access.</p>
+             <p>- A. We will start by dragging a PC into the topology and labeling it as “Test-PC”.</p>
 
 
 
