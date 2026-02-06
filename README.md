@@ -35,7 +35,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="867" height="797" alt="Screenshot 2026-02-05 185911" src="https://github.com/user-attachments/assets/c42797f9-9c5d-4a12-ae2c-0885ffd90a3d" />
             <p><em>- For the priority 255 command, it will force the switch to be the primary gateway, while configuring priority 0 will ensure it is the last resort for the specific vlan. The preempt command allows the higher priority switch to immediately seize control from the active switch with lower the priority if there happened to be a device failure.</em></p>
         <h3>Step 8: Configure Spanning-Tree VLAN Priority</h3>
-            <p>- For this next step, we will configure HSRP under all VLAN interfaces to share an IP address between the switches to provide first-hop gateway redundancy, ensuring uninterrupted network connectivity if a primary switch were to fail. This will create a virtual IP and MAC address shared between the switches, allowing hosts to maintain a consistent default gateway IP, thereby minimizing downtime during network failures.</p>
+            <p>- Next we'll configure spanning-tree vlan priority to split the role of the primary root bridge between the core switches. This will affect traffic from access layer switches coming back to the core, so that we may optimize traffic flow, balancing the load across redundant paths, and ensure predictable, stable topology behavior.</p>
 
 
 
