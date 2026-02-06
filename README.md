@@ -61,6 +61,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="868" height="336" alt="Screenshot 2026-02-05 204710" src="https://github.com/user-attachments/assets/4988b0aa-73d0-4cfd-a791-3773d6bb62c0" />
         <h3>Step 12: Verify Connectivity In The Network</h3>
              <p>- For the final step in this first milestone, we will now connect a network operations PC to the MGMT VLAN for management of the network and verification purposes.</p>
+             <p>- A. We will drag and drop a PC into the topology and label it as "NOC-PC".</p>
 
 
 
