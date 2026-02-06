@@ -94,6 +94,8 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                  <img width="2559" height="1599" alt="Screenshot 2026-02-06 155717" src="https://github.com/user-attachments/assets/0526fd86-227b-4edd-9d50-9430cc1cfd70" />
              <p><em>- As you can see, we were able to successfuly ping our vlans on the network.</em></p>
              <p>- F. Next we will test management access to the core switches to verify the test host cannot access the management plan of either core switch.</p>
+                 <img width="871" height="277" alt="Screenshot 2026-02-06 162334" src="https://github.com/user-attachments/assets/e32db836-d61d-43f0-b523-1a1d9ba61bb5" />
+
 
 
 
