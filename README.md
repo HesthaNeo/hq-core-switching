@@ -49,7 +49,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="868" height="151" alt="Screenshot 2026-02-05 200013" src="https://github.com/user-attachments/assets/85f3feb4-cae2-4ec8-a2e3-465dd9078e63" />
                 <img width="868" height="151" alt="Screenshot 2026-02-05 200013" src="https://github.com/user-attachments/assets/6c4af609-f41d-4dcb-a3b7-15713dd7195a" />
         <h3>Step 10: Configure Access Ports</h3>
-            <p>- Now we will connect a 2nd ethernet cross-over cable connecting both G0/2 ports on the switches, and we will configure the two gigabit ethernet connections we have currently as aggregated trunk links. We do this to combine both physical links into a single logical interface, preventing a single point of failure and while also optimizing throughput without having to upgrade our hardware. We will then configure these as a trunk to allow for multiple VLANs to pass through the aggregated link.</p>
+            <p>- Now we will configure all necessary access ports so that the corresponding end devices may connect to their specific vlan. We do this to provide security by segregating the traffic, simplifying network management, and ensuring these end devices only receive data intended for their assigned network segment.</p>
 
 
 
