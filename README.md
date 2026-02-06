@@ -83,6 +83,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                  <img width="739" height="853" alt="Screenshot 2026-02-06 153940" src="https://github.com/user-attachments/assets/83f19022-7821-42dc-810f-1369509358af" />
              <p>- B. Next we will connect a straight-through cable from Test-PC FastEthernet0 to an access port on HQ-CORE-SW2. </p>
                  <img width="732" height="848" alt="Screenshot 2026-02-06 154151" src="https://github.com/user-attachments/assets/666ff385-6204-4a71-a694-57517c0c7a3c" />
+             <p>- C. Now we'll click on the PC to configure a static IP address, subnet mask, and default gateway in the configuration.</p>
 
 
 
