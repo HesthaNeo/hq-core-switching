@@ -68,6 +68,10 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
              <p>- C. Next we will configure that same cccess port on HQ-CORE-SW1 (fa0/1) for switchport access vlan 100, our MGMT vlan.</p>
                  <img width="872" height="291" alt="Screenshot 2026-02-06 151443" src="https://github.com/user-attachments/assets/101c922d-7e40-4c25-8685-7a9ab83f8cec" />
              <p>- D. Now we'll click on the PC to configure a static IP address, subnet mask, and default gateway. Our IP address for this NOC PC will be 192.168.110.50 255.255.255.0 with a default gateway of 192.168.110.100.</p>
+                 <img width="866" height="885" alt="Screenshot 2026-02-06 151929" src="https://github.com/user-attachments/assets/7e648545-ee3b-499e-a5a4-336bfd5a2bf6" />
+                 <img width="872" height="886" alt="Screenshot 2026-02-06 152003" src="https://github.com/user-attachments/assets/f4aed5d9-e0a3-4e91-8214-ea609b6830c1" />
+
+
 
             
 
