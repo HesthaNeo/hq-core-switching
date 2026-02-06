@@ -36,6 +36,10 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
             <p><em>- For the priority 255 command, it will force the switch to be the primary gateway, while configuring priority 0 will ensure it is the last resort for the specific vlan. The preempt command allows the higher priority switch to immediately seize control from the active switch with lower the priority if there happened to be a device failure.</em></p>
         <h3>Step 8: Configure Spanning-Tree VLAN Priority</h3>
             <p>- Next we'll configure spanning-tree vlan priority to split the role of the primary root bridge between the core switches. This will affect traffic from access layer switches coming back to the core, so that we may optimize traffic flow, balancing the load across redundant paths, and ensure predictable, stable topology behavior.</p>
+               <img width="867" height="622" alt="Screenshot 2026-02-05 191451" src="https://github.com/user-attachments/assets/396acc9b-f7b1-47c9-b86a-28779aff0949" />
+               <img width="873" height="632" alt="Screenshot 2026-02-05 191659" src="https://github.com/user-attachments/assets/15aa2f05-3911-4f7a-8f45-e53785a02188" />
+
+ 
 
 
 
