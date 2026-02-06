@@ -73,6 +73,13 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
              <p>- E. Now we can access the command prompt of the NOC-PC to test connectivity to the core switches.</p>
                  <img width="2559" height="1599" alt="Screenshot 2026-02-06 152512" src="https://github.com/user-attachments/assets/a986e576-bbeb-4380-a98d-03021b28963d" />
              <p><em>- As you can see, we were able to successfuly ping our vlans on the network.</em></p>
+             <p>- F. Next we will test management access to the core switches by using secure shell to connect to the following management network IP addresses.</p>
+                 <img width="871" height="439" alt="Screenshot 2026-02-06 153159" src="https://github.com/user-attachments/assets/1e31fc22-c9a2-437e-a8ed-8fd3d8068755" />
+                 <img width="872" height="356" alt="Screenshot 2026-02-06 153314" src="https://github.com/user-attachments/assets/5c1a4e1c-113f-44a3-a812-5789d888702b" />
+                 <img width="868" height="353" alt="Screenshot 2026-02-06 153359" src="https://github.com/user-attachments/assets/e012e7ea-a144-4753-a414-3e16068d86aa" />
+
+
+
 
 
 
