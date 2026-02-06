@@ -87,6 +87,8 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                  <img width="871" height="884" alt="Screenshot 2026-02-06 155204" src="https://github.com/user-attachments/assets/35ff7aaf-4c16-47e7-ab31-bf7e20eac9f4" />
                  <img width="870" height="883" alt="Screenshot 2026-02-06 155244" src="https://github.com/user-attachments/assets/ad36c2e2-e77f-438e-afa9-0c513a0879b3" />
              <p>- E. Now we can access the command prompt of the Test-PC to test connectivity to various IPs.</p>
+                 <img width="2559" height="1599" alt="Screenshot 2026-02-06 155717" src="https://github.com/user-attachments/assets/0526fd86-227b-4edd-9d50-9430cc1cfd70" />
+
 
 
 
