@@ -45,7 +45,11 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="869" height="1500" alt="Screenshot 2026-02-05 193821" src="https://github.com/user-attachments/assets/d5aa3d81-6925-4056-92dd-1373ce03a9f4" />
                 <img width="866" height="383" alt="Screenshot 2026-02-05 194141" src="https://github.com/user-attachments/assets/4dfe7f6e-f926-4653-b409-1cd9bc6fa76c" />
             <p><em>- We implement the "switchport trunk encapsulation dot1q" command to ensure the switch adds VLAN tags to the frames, allowing multiple VLANs to traverse the single link while we maintain separation. Lastly, we use the "channel-group 1 mode on" command to immediately create a "static" (forced) etherchannel/aggregated link, which is why we were seeing those status updates frequently during that process.</em></p>
+            <p>- Now we will configure the trunk ports for the fast ethernet ports on each switch.</p>
+                <img width="868" height="151" alt="Screenshot 2026-02-05 200013" src="https://github.com/user-attachments/assets/85f3feb4-cae2-4ec8-a2e3-465dd9078e63" />
+                <img width="868" height="151" alt="Screenshot 2026-02-05 200013" src="https://github.com/user-attachments/assets/6c4af609-f41d-4dcb-a3b7-15713dd7195a" />
         <h3>Step 10: Configure Access Ports</h3>
+            <p>- Now we will connect a 2nd ethernet cross-over cable connecting both G0/2 ports on the switches, and we will configure the two gigabit ethernet connections we have currently as aggregated trunk links. We do this to combine both physical links into a single logical interface, preventing a single point of failure and while also optimizing throughput without having to upgrade our hardware. We will then configure these as a trunk to allow for multiple VLANs to pass through the aggregated link.</p>
 
 
 
