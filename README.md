@@ -88,6 +88,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                  <img width="870" height="883" alt="Screenshot 2026-02-06 155244" src="https://github.com/user-attachments/assets/ad36c2e2-e77f-438e-afa9-0c513a0879b3" />
              <p>- E. Now we can access the command prompt of the Test-PC to test connectivity to various IPs.</p>
                  <img width="2559" height="1599" alt="Screenshot 2026-02-06 155717" src="https://github.com/user-attachments/assets/0526fd86-227b-4edd-9d50-9430cc1cfd70" />
+             <p><em>- As you can see, we were able to successfuly ping our vlans on the network.</em></p>
 
 
 
