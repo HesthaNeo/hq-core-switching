@@ -44,7 +44,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="1437" height="1510" alt="Screenshot 2026-02-05 193047" src="https://github.com/user-attachments/assets/fc1ece7a-9aa9-4dfa-b67e-a92c9445e58f" />
                 <img width="869" height="1500" alt="Screenshot 2026-02-05 193821" src="https://github.com/user-attachments/assets/d5aa3d81-6925-4056-92dd-1373ce03a9f4" />
                 <img width="866" height="383" alt="Screenshot 2026-02-05 194141" src="https://github.com/user-attachments/assets/4dfe7f6e-f926-4653-b409-1cd9bc6fa76c" />
-            <p><em>- We implement the "switchport trunk encapsulation dot1q command to ensure the switch adds VLAN tags to the frames, allowing multiple VLANs to traverse the single link while we maintain separation.</em></p>
+            <p><em>- We implement the "switchport trunk encapsulation dot1q" command to ensure the switch adds VLAN tags to the frames, allowing multiple VLANs to traverse the single link while we maintain separation. Lastly, the "channel-group 1 mode on" command to immediately create a "static" (forced) etherChannel/aggregated link, which is why we were seeing those status updates frequently during that process.</em></p>
 
 
 
