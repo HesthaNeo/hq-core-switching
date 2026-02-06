@@ -49,7 +49,7 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                 <img width="868" height="151" alt="Screenshot 2026-02-05 200013" src="https://github.com/user-attachments/assets/85f3feb4-cae2-4ec8-a2e3-465dd9078e63" />
                 <img width="868" height="151" alt="Screenshot 2026-02-05 200013" src="https://github.com/user-attachments/assets/6c4af609-f41d-4dcb-a3b7-15713dd7195a" />
         <h3>Step 10: Configure Access Ports</h3>
-            <p>- Now we will configure all necessary access ports so that the corresponding end devices may connect to their specific vlan. We do this to provide security by segregating the traffic, simplifying network management, and ensuring these end devices only receive data intended for their assigned network segment. We will be configuring fast access ports Fa0/1 - 18. </p>
+            <p>- Now we will configure all necessary access ports so that the corresponding end devices may connect to their specific vlan. We do this to provide security by segregating the traffic, simplifying network management, and ensuring these end devices only receive data intended for their assigned network segment. We will be configuring fast access ports Fa0/1 - 18 for both switches. </p>
 
 
 
