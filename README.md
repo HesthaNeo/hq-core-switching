@@ -5,19 +5,19 @@
     <p>First phase, we will install 2 Cisco WS-C3560-24PS configured with port-channel, Hot Standby Router
 Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
-    <h3>Step 1: Rack Mount, Power On and Cable Both Switches</h3>
-    <h3>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</h3>
-    <h3>Step 3: Enable IP Routing</h3>
-    <h3>Step 4: Create VLANs (10, 100, 172, & 192)</h3>
-    <h3>Step 5: Configure VLAN Trunking Protocol (VTP) Server</h3>
-    <h3>Step 6: Create VLAN Interfaces</h3>
-    <h3>Step 7: Configure HSRP For All VLAN Interfaces</h3>
-    <h3>Step 8: Configure Spanning-Tree VLAN Priority</h3>
-    <h3>Step 9: Configure Trunk Ports</h3>
-    <h3>Step 10: Configure Access Ports</h3>
-    <h3>Step 11: Configure Static Routes</h3>
-    <h3>Step 12: Configure Access-List To Protect The Management Plane</h3>
-    <h3>Step 13: Verify Connectivity In The Network</h3>
+    <p>Step 1: Rack Mount, Power On and Cable Both Switches</p>
+    <p>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
+    <p>Step 3: Enable IP Routing</p>
+    <p>Step 4: Create VLANs (10, 100, 172, & 192)</p>
+    <p>Step 5: Configure VLAN Trunking Protocol (VTP) Server</p>
+    <p>Step 6: Create VLAN Interfaces</p>
+    <p>Step 7: Configure HSRP For All VLAN Interfaces</p>
+    <p>Step 8: Configure Spanning-Tree VLAN Priority</p>
+    <p>Step 9: Configure Trunk Ports</p>
+    <p>Step 10: Configure Access Ports</p>
+    <p>Step 11: Configure Static Routes</p>
+    <p>Step 12: Configure Access-List To Protect The Management Plane</p>
+    <p>Step 13: Verify Connectivity In The Network</p>
     <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Rack Mount, Power On and Cable Both Switches</h3>
             <p>- First, we'll add two 3560 switches to the topology by dragging and dropping them into the Headquarters 
