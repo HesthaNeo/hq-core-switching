@@ -40,6 +40,8 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
                <img width="873" height="632" alt="Screenshot 2026-02-05 191659" src="https://github.com/user-attachments/assets/15aa2f05-3911-4f7a-8f45-e53785a02188" />
         <h3>Step 9: Configure Trunk Ports</h3>
             <p>- Now we will connect a 2nd ethernet cross-over cable connecting both G0/2 ports on the switches, and we will configure the two gigabit ethernet connections we have currently as aggregated trunk links. We do this to combine both physical links into a single logical interface, preventing a single point of failure and while also optimizing througput without having to upgrade our hardware. We will then configure these as a trunk to allow for multiple VLANs to pass through the aggregated link.</p>
+                <img width="1983" height="1013" alt="Screenshot 2026-02-05 192700" src="https://github.com/user-attachments/assets/f9ee4465-0203-424c-a218-498f13517fc4" />
+
 
  
 
