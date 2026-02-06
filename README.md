@@ -64,6 +64,8 @@ section of the lab. Place them side by side and label them as HQ-CORE-SW1 & HQ-C
              <p>- A. We will drag and drop a PC into the topology and label it as "NOC-PC".</p>
                  <img width="759" height="879" alt="Screenshot 2026-02-06 150935" src="https://github.com/user-attachments/assets/0a07c603-27f1-4fa0-b91f-aa2b937cf2ea" />
              <p>- B. Next we will connect a straight-through cable from PC FastEthernet0 to an access port on HQ-CORE-SW1 .</p>
+                 <img width="736" height="860" alt="Screenshot 2026-02-06 151141" src="https://github.com/user-attachments/assets/ab1a2448-ffc5-41f0-8a56-6ded3b8fa10c" />
+
 
 
 
