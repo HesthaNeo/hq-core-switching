@@ -5,19 +5,19 @@
     <p>First phase, we will install 2 Cisco WS-C3560-24PS configured with port-channel, Hot Standby Router
 Protocol, Per VLAN Spanning-Tree (PVST) with dual root and split VLAN traffic, and VTP Server.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
-    <p>Step 1: Rack Mount, Power On and Cable Both Switches</p>
-    <p>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
-    <p>Step 3: Enable IP Routing</p>
-    <p>Step 4: Create VLANs (10, 100, 172, & 192)</p>
-    <p>Step 5: Configure VLAN Trunking Protocol (VTP) Server</p>
-    <p>Step 6: Create VLAN Interfaces</p>
-    <p>Step 7: Configure HSRP For All VLAN Interfaces</p>
-    <p>Step 8: Configure Spanning-Tree VLAN Priority</p>
-    <p>Step 9: Configure Trunk Ports</p>
-    <p>Step 10: Configure Access Ports</p>
-    <p>Step 11: Configure Static Routes</p>
-    <p>Step 12: Configure Access-List To Protect The Management Plane</p>
-    <p>Step 13: Verify Connectivity In The Network</p>
+    <p><b>Step 1: Rack Mount, Power On and Cable Both Switches</b></p>
+    <p><b>Step 2: Basic Switch Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</b></p>
+    <p><b>Step 3: Enable IP Routing</b></p>
+    <p><b>Step 4: Create VLANs (10, 100, 172, & 192)</b></p>
+    <p><b>Step 5: Configure VLAN Trunking Protocol (VTP) Server</b></p>
+    <p><b>Step 6: Create VLAN Interfaces</b></p>
+    <p><b>Step 7: Configure HSRP For All VLAN Interfaces</b></p>
+    <p><b>Step 8: Configure Spanning-Tree VLAN Priority</b></p>
+    <p><b>Step 9: Configure Trunk Ports</b></p>
+    <p><b>Step 10: Configure Access Ports</b></p>
+    <p><b>Step 11: Configure Static Routes</b></p>
+    <p><b>Step 12: Configure Access-List To Protect The Management Plane</b></p>
+    <p><b>Step 13: Verify Connectivity In The Network</b></p>
     <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Rack Mount, Power On and Cable Both Switches</h3>
             <p>- First, we'll add two 3560 switches to the topology by dragging and dropping them into the Headquarters 
